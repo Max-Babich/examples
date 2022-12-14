@@ -8,5 +8,5 @@ if (username.ToLower() == "max") // ToLower() делает все буквы с�
     }
 else
     {
-        Console.WriteLine("Hello ",username);
+        Console.WriteLine("Hello, " + username);
     }
