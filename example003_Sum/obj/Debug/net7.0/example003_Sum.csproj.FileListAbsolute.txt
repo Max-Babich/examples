@@ -1,0 +1,15 @@
+E:\GIT\examples\example003_Sum\bin\Debug\net7.0\example003_Sum.exe
+E:\GIT\examples\example003_Sum\bin\Debug\net7.0\example003_Sum.deps.json
+E:\GIT\examples\example003_Sum\bin\Debug\net7.0\example003_Sum.runtimeconfig.json
+E:\GIT\examples\example003_Sum\bin\Debug\net7.0\example003_Sum.dll
+E:\GIT\examples\example003_Sum\bin\Debug\net7.0\example003_Sum.pdb
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.csproj.AssemblyReference.cache
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.AssemblyInfoInputs.cache
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.AssemblyInfo.cs
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.csproj.CoreCompileInputs.cache
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.dll
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\refint\example003_Sum.dll
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.pdb
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\example003_Sum.genruntimeconfig.cache
+E:\GIT\examples\example003_Sum\obj\Debug\net7.0\ref\example003_Sum.dll
