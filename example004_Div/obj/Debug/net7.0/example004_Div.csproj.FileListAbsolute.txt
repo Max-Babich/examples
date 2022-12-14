@@ -1,0 +1,15 @@
+E:\GIT\examples\example004_Div\bin\Debug\net7.0\example004_Div.exe
+E:\GIT\examples\example004_Div\bin\Debug\net7.0\example004_Div.deps.json
+E:\GIT\examples\example004_Div\bin\Debug\net7.0\example004_Div.runtimeconfig.json
+E:\GIT\examples\example004_Div\bin\Debug\net7.0\example004_Div.dll
+E:\GIT\examples\example004_Div\bin\Debug\net7.0\example004_Div.pdb
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.csproj.AssemblyReference.cache
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.AssemblyInfoInputs.cache
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.AssemblyInfo.cs
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.csproj.CoreCompileInputs.cache
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.dll
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\refint\example004_Div.dll
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.pdb
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\example004_Div.genruntimeconfig.cache
+E:\GIT\examples\example004_Div\obj\Debug\net7.0\ref\example004_Div.dll
